@@ -41,3 +41,7 @@ img {
   color: hsl(0, 0%, 20%);
   background: hsl(75, 94%, 57%);
 }
+.li {
+  text-decoration: none;
+  color: white;
+}
